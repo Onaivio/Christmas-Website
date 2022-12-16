@@ -1,5 +1,5 @@
-# New Christmas Website ⛄️
-# Responsive Christmas Website ⛄️
+# New Christmas Website ⛄️ 🎇🎡
+# Responsive Christmas Website ⛄️🎇🎡
 
 - Responsive Christmas Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
